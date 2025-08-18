@@ -37,16 +37,16 @@ require (
 	github.com/hashicorp/jsonapi v1.5.0
 	github.com/hashicorp/terraform-registry-address v0.3.0
 	github.com/hashicorp/terraform-svchost v0.1.1
-	github.com/hashicorp/terraform/internal/backend/remote-state/azure v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/consul v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/cos v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/gcs v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/kubernetes v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/oci v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/oss v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/pg v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/backend/remote-state/s3 v0.0.0-20250818102018-da76dba3dc79
-	github.com/hashicorp/terraform/internal/legacy v0.0.0-20250818102018-da76dba3dc79
+	github.com/hashicorp/terraform/internal/backend/remote-state/azure v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/consul v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/cos v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/gcs v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/kubernetes v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/oci v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/oss v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/pg v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/backend/remote-state/s3 v0.0.0-20250818115309-423cacdfe25b
+	github.com/hashicorp/terraform/internal/legacy v0.0.0-20250818115309-423cacdfe25b
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/masterzen/winrm v0.0.0-20240702205601-3fad6e106085
 	github.com/mattn/go-isatty v0.0.20
