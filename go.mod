@@ -37,16 +37,16 @@ require (
 	github.com/hashicorp/jsonapi v1.5.0
 	github.com/hashicorp/terraform-registry-address v0.3.0
 	github.com/hashicorp/terraform-svchost v0.1.1
-	github.com/hashicorp/terraform/internal/backend/remote-state/azure v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/consul v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/cos v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/gcs v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/kubernetes v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/oci v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/oss v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/pg v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/backend/remote-state/s3 v0.0.0-20250818143949-1ce7d800c07b
-	github.com/hashicorp/terraform/internal/legacy v0.0.0-20250818143949-1ce7d800c07b
+	github.com/hashicorp/terraform/internal/backend/remote-state/azure v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/consul v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/cos v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/gcs v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/kubernetes v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/oci v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/oss v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/pg v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/backend/remote-state/s3 v0.0.0-20250818180331-62b3ba590aa2
+	github.com/hashicorp/terraform/internal/legacy v0.0.0-20250818180331-62b3ba590aa2
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/masterzen/winrm v0.0.0-20240702205601-3fad6e106085
 	github.com/mattn/go-isatty v0.0.20
@@ -262,7 +262,7 @@ require (
 	github.com/spf13/cobra v1.8.1 // indirect
 	github.com/spf13/pflag v1.0.7 // indirect
 	github.com/spiffe/go-spiffe/v2 v2.5.0 // indirect
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.1.12 // indirect
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.1.13 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sts v1.1.11 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/tag v1.1.0 // indirect
 	github.com/tencentyun/cos-go-sdk-v5 v0.7.69 // indirect
@@ -307,9 +307,9 @@ require (
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
 	google.golang.org/api v0.247.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
-	google.golang.org/genproto v0.0.0-20250811230008-5f3141c8851a // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20250811230008-5f3141c8851a // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250811230008-5f3141c8851a // indirect
+	google.golang.org/genproto v0.0.0-20250818200422-3122310a409c // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250818200422-3122310a409c // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
